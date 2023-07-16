@@ -4,10 +4,10 @@
 - ➡️ Project Board: https://github.com/orgs/devopsway/projects/1
 
 ### 🧱 Aplication repo
-- Frontend: https://github.com/devopsway/devops-project-application-cowsay-frontend
+- Frontend: 
 - API: https://github.com/devopsway/devops-project-application-cowsay-api
 ### 🏗️ Infrastructure
-- Cloud: **GCP**
+- Cloud: **aws**
 - Terraform code: https://github.com/devopsway/devops-project-infrastructure
 ### ⚙️ CICD
 - Jenkins install: https://github.com/devopsway/devops-project-jenkins-pack
